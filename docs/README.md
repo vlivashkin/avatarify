@@ -215,25 +215,25 @@ Avatarify supports any video-conferencing app where video input source can be ch
 
 Go to Settings -> Audio & Video, choose `avatarify` (Linux), `CamTwist` (Mac) or `OBS-Camera` (Windows) camera.
 
-<img src=/img/skype.jpg width=600>
+<img src=./img/skype.jpg width=600>
 
 ## Zoom
 
 Go to Settings -> Video and choose `avatarify` (Linux), `CamTwist` (Mac) or `OBS-Camera` (Windows) from Camera drop-down menu.
 
-<img src=/img/zoom.jpg width=600>
+<img src=./img/zoom.jpg width=600>
 
 ## Teams
 
 Go to your profile picture -> Settings -> Devices and choose `avatarify` (Linux), `CamTwist` (Mac) or `OBS-Camera` (Windows) from Camera drop-down menu.
 
-<img src=/img/teams.jpg width=600>
+<img src=./img/teams.jpg width=600>
 
 ## Slack
 
 Make a call, allow browser using cameras, click on Settings icon, choose `avatarify` (Linux), `CamTwist` (Mac) or `OBS-Camera` (Windows) in Video settings drop-down menu.
 
-<img src=/img/slack.jpg width=600>
+<img src=./img/slack.jpg width=600>
 
 
 # Uninstall
