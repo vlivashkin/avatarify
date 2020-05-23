@@ -1,5 +1,6 @@
 vox-adv-cpk.pth.tar
 
 __pycache__
+.idea
 
 *.log
